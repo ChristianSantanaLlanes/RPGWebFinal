@@ -21,7 +21,7 @@ definePageMeta({
         <Button
           size="xs"
           type="opposite"
-          text="Alfian Dwi Nugraha (@viandwi24)"
+          text="Hola"
           class="font-extrabold mt-4"
           href="https://github.com/viandwi24"
         />
