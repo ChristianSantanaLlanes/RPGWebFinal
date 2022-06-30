@@ -21,9 +21,9 @@ definePageMeta({
         <Button
           size="xs"
           type="opposite"
-          text="Hola"
+          text="Probando sistema nuevo"
           class="font-extrabold mt-4"
-          href="https://github.com/viandwi24"
+          href="https://github.com/ChristianSantanaLlanes"
         />
       </div>
     </PageBody>
